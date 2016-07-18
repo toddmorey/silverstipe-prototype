@@ -1,0 +1,12 @@
+{
+  "name": "silverstripe-gulp-sass",
+  "private": true,
+  "devDependencies": {
+    "browser-sync": "^2.9.6",
+    "debug": "^2.2.0",
+    "gulp": "^3.9.0",
+    "gulp-load-plugins": "^0.10.0",
+    "gulp-sass": "^2.1.1",
+    "gulp-util": "^3.0.6"
+  }
+}
